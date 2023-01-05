@@ -11,5 +11,5 @@ if __name__ == "__main__":
         a = sys.argv[1]
         b = sys.argv[3]
         sn = sys.argv[2]
-        if sn in op.keys():
+        if sn in list(op.keys()):
             print("{} {} {} = {}".format(a, sn, b, op[sn](a, b)))
