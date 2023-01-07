@@ -1,10 +1,20 @@
 #!/usr/bin/python3
 def print_matrix_integer(matrix=[[]]):
     if isinstance(matrix, list):
-        for x in matrix:
-            for y in range(x):
-                if y == range(x) - 1:
-                    print("{:d}".format(y), end="")
+        for x in range(len(matrix)):
+            for y in range(len(matrix[x])):
+                if y == (len(matrix[x]) - 1):
+                    print("{:d}".format(matrix[x][y]), end="")
                 else:
-                    print("{:d}".format(y), end=" ")
+                    print("{:d}".format(matrix[x][y]), end=" ")
             print("")
+
+matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+
+print_matrix_integer(matrix)
+print("--")
+print_matrix_integer()
