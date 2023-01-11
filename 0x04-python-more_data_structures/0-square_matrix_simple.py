@@ -3,7 +3,7 @@ def square_matrix_simple(matrix=[]):
     if isinstance(matrix, list):
         new_matrix = []
         for i in range(len(matrix)):
-            row =[]
+            row = []
             for j in range(len(matrix[i])):
                 row.append(matrix[i][j]**2)
             new_matrix.append(row)
