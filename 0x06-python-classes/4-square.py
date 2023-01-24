@@ -23,12 +23,13 @@ class Square:
         """
 
         result = self.__size * self.__size
-
         return (result)
+
     @property
     def size(self):
         """class method that retrieve a private instance attribute"""
         return (self.__size)
+
     @size.setter
     def size(self, value):
         if not isinstance(value, int):
