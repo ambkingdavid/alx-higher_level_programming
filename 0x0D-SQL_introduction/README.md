@@ -9,5 +9,5 @@
 6. _task 6_ -
 7. _task 7_ -
 8. _task 8_ -
-9. _task 9_ -
+9. _task 9_ - Creates and fills a table second_table with attributes id, name and score
 10. _task 10_ -
