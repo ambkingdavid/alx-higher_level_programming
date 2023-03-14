@@ -20,4 +20,4 @@
 17. _task 100_ - Converts the entire database hbtn_0c_0 to UTF8.
 18. _task 101_ - Displays the average temperature in Fahrenheit
 19. _task 102_ - Displays the 3 cities with the highest average temperatures between July and August.
-20. _task 103_ - Displays the max temperature of each state, ordered by state name
+20. _task 103_ - Displays the max temperature of each state, ordered by state name.
