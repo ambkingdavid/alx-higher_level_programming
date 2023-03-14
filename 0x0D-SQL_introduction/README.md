@@ -12,8 +12,8 @@
 9. _task 9_ - Creates and fills a table second_table with attributes id, name and score
 10. _task 10_ - Lists all records of the table second_table and Records are ordered by descending score.
 11. _task 11_ - Lists all records in the table second_table with a score >= 10 and Records are ordered by descending score
-12.  _task 12_ - 
-13.  _task 13_ -
+12.  _task 12_ - Updates the score of Bob to 10 in the table second_table.
+13.  _task 13_ - Removes all records with a score <= 5 in the table second_table
 14.  _task 14_ -
 15.  _task 15_ -
 16.  _task 16_ -
