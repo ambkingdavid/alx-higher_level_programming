@@ -17,7 +17,7 @@
 14.  _task 14_ - Computes the average score of all records in the table second_table
 15.  _task 15_ - Lists the number of records with the same score in the table second_table.
 16.  _task 16_ - Lists all records of the table second_table having a name value
-17. _task 100_ -
-18. _task 101_ -
-19. _task 102_ -
-20. _task 103_ -
+17. _task 100_ - Converts the entire database hbtn_0c_0 to UTF8.
+18. _task 101_ - Displays the average temperature in Fahrenheit
+19. _task 102_ - Displays the 3 cities with the highest average temperatures between July and August.
+20. _task 103_ - Displays the max temperature of each state, ordered by state name
