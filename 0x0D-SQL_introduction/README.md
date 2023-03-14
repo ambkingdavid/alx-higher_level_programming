@@ -11,8 +11,8 @@
 8. _task 8_ - Displays the number of records with id = 89 in the table first_table
 9. _task 9_ - Creates and fills a table second_table with attributes id, name and score
 10. _task 10_ - Lists all records of the table second_table and Records are ordered by descending score.
-11. _task 11_ -
-12.  _task 12_ -
+11. _task 11_ - Lists all records in the table second_table with a score >= 10 and Records are ordered by descending score
+12.  _task 12_ - 
 13.  _task 13_ -
 14.  _task 14_ -
 15.  _task 15_ -
