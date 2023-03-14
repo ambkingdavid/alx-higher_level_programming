@@ -6,8 +6,14 @@
 3. _task 3_ - script that lists all the tables of a database in your MySQL server.
 4. _task 4_ - script that creates a table in the current database in your MySQL server.
 5. _task 5_ -  script that prints the full description of a table from a database.
-6. _task 6_ -
-7. _task 7_ -
-8. _task 8_ -
+6. _task 6_ - Lists all rows of the table first_table.
+7. _task 7_ - Inserts a new row into the table first_table.
+8. _task 8_ - Displays the number of records with id = 89 in the table first_table
 9. _task 9_ - Creates and fills a table second_table with attributes id, name and score
-10. _task 10_ -
+10. _task 10_ - Lists all records of the table second_table and Records are ordered by descending score.
+11. _task 11_ -
+12.  _task 12_ -
+13.  _task 13_ -
+14.  _task 14_ -
+15.  _task 15_ -
+16.  _task 16_ -
