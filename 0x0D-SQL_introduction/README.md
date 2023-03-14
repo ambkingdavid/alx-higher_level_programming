@@ -16,4 +16,8 @@
 13.  _task 13_ - Removes all records with a score <= 5 in the table second_table
 14.  _task 14_ - Computes the average score of all records in the table second_table
 15.  _task 15_ - Lists the number of records with the same score in the table second_table.
-16.  _task 16_ -
+16.  _task 16_ - Lists all records of the table second_table having a name value
+17. _task 100_ -
+18. _task 101_ -
+19. _task 102_ -
+20. _task 103_ -
