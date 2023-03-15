@@ -3,7 +3,7 @@
 _task 0_ -  Lists all privileges of the users user_0d_1 and user_0d_2.
 _task 1_ - Creates the user user_0d_1 with all privileges.
 _task 2_ - Creates the database hbtn_0d_2 and the user user_0d_2
-_task 3_ - 
+_task 3_ - Creates the table force_name
 _task 4_ - 
 _task 5_ - 
 _task 6_ - 
