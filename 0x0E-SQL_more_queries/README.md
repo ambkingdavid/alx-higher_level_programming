@@ -1,7 +1,7 @@
 # _SQL - More queries_
 
 _task 0_ -  Lists all privileges of the users user_0d_1 and user_0d_2.
-_task 1_ - 
+_task 1_ - Creates the user user_0d_1 with all privileges.
 _task 2_ - 
 _task 3_ - 
 _task 4_ - 
