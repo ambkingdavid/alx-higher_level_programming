@@ -5,7 +5,7 @@ const args = process.argv.slice(2);
 if (!isNaN(parseInt(args[0]))) {
   let i = 0;
   let square;
-  
+
   while (i < parseInt(args[0])) {
     let j = 0;
     square = '';
