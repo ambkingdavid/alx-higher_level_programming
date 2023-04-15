@@ -4,22 +4,23 @@
 import MySQLdb
 import sys
 
-username = sys.argv[1]
-password = sys.argv[2]
-db_name = sys.argv[3]
+if __name__ = "__main__":
+    username = sys.argv[1]
+    password = sys.argv[2]
+    db_name = sys.argv[3]
 
-db = MySQLdb.connect(
-        host='localhost',
-        port=3360,
-        user=username,
-        passwd=password,
-        db=db_name
-        )
-cursor = db.cursor()
-cursor.execute("SELECT * FROM states ORDER BY id ASC")
+    db = MySQLdb.connect(
+            host='localhost',
+            port=3360,
+            user=username,
+            passwd=password,
+            db=db_name
+            )
+    cursor = db.cursor()
+    cursor.execute("SELECT * FROM states ORDER BY id ASC")
 
-results = cursor.fetchall()
+    results = cursor.fetchall()
 
-for row in results:
-    print(row)
-db.close()
+    for row in results:
+        print(row)
+    db.close()
